@@ -43,7 +43,7 @@ METHOD:: action
 Function that gets evaluated when some leaf is selected. Arguments passed: this, value
 
 METHOD:: openAction
-Function that gets evaluated when the popup menu is clicked. Arguments passed: this, mouseX, mouseY. This can be used to automatically populate the tree to keep it in sync with files in a folder. See link::#Examples:: below.
+Function that gets evaluated when the popup menu is clicked. Arguments passed: this, mouseX, mouseY. This can be used to automatically populate the tree to keep it in sync with files in a folder. See link::#examples:: below.
 
 METHOD:: closeAction
 Function that gets evaluated when the popup menu closes. Arguments passed: this, mouseX, mouseY.
